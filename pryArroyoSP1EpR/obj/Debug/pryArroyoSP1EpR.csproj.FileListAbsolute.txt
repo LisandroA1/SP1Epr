@@ -1,0 +1,59 @@
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmClientes.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVenKaktus.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsulta.resources
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe.config
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmClientes.resources
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsulta.resources
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVenKaktus.resources
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.exe
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Alumno\Source\Repos\Laboratorio-Programacion-2\laboratotio de programacion nuevo\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVendedor.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVendedor.resources
+D:\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe.config
+D:\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe
+D:\Escritorio\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.pdb
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.AssemblyReference.cache
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmClientes.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsulta.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsultaVentas.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVenKaktus.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVendedor.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVentas.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.Properties.Resources.resources
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.GenerateResource.cache
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.exe
+D:\Escritorio\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\bin\Debug\pryArroyoSP1EpR.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmClientes.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsulta.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmConsultaVentas.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVenKaktus.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVendedor.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.frmVentas.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1EpR\obj\Debug\pryArroyoSP1EpR.pdb
